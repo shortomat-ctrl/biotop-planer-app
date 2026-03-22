@@ -2,3 +2,5 @@ libgdal-dev
 libgeos-dev
 libproj-dev
 binutils
+cmake
+g++
