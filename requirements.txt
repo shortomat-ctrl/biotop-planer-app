@@ -1,0 +1,9 @@
+streamlit
+rasterio
+geopandas
+matplotlib
+numpy
+opencv-python-headless
+shapely
+pyogrio
+```[[1](https://www.google.com/url?sa=E&q=https%3A%2F%2Fvertexaisearch.cloud.google.com%2Fgrounding-api-redirect%2FAUZIYQFNDiuDdyvqlS-1Rxg0uzEJZ3sHbZOwJalaw1stYVlLUsdyXlOM8lBk2hAl24BAlKPjJzanVaSfL4SE6uqO71jukWYtq5gCdstZFkuXP-ZMfVJsiiMrjWmY30Rjll-Sh6pZszSpoU25YD43Fef0PLmzVN__tjc%3D)][[2](https://www.google.com/url?sa=E&q=https%3A%2F%2Fvertexaisearch.cloud.google.com%2Fgrounding-api-redirect%2FAUZIYQFUSIyY_HkvjrSojxAMzseluO29F94YneGbiTVO6KxRdntzP2Z0iV2j5aKckUhkyMmF43yqYhLpJn1ZHPYgAjshvl8OuqGkswODRfXHof-cAkKwHmJkTTnROOHhhTtgVfCU9sNERmPxLIOzmPvXphpLPzcViZLgMddmaHwy9yjT)]
