@@ -4,5 +4,4 @@ matplotlib
 shapely
 geopandas
 rasterio
-pyogrio
 opencv-python-headless
